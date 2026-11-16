@@ -67,7 +67,7 @@ Não é necessário instalar programas ou executar comandos para visualizar o po
 
 ## 🌐 Acesse o projeto
 
-🔗 **Site publicado:** [LINK](#)
+🔗 **Site publicado:** [https://leti-poliveira.github.io/meu-portfolio/](#)
 
 ---
 
